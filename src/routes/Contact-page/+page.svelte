@@ -8,7 +8,7 @@
     let formSubmitted = false;
   
     const contactInfo = [
-      { type: 'Email', value: '202210413@gordoncollege.edu.ph', icon: 'fas fa-envelope', link: '202210413@gordoncollege.edu.ph' },
+      { type: 'Email', value: '202210413@gordoncollege.edu.ph', icon: 'fas fa-envelope', link: 'https://mail.google.com/' },
       { type: 'Facebook', value: 'Jim Dale', icon: 'fab fa-facebook', link: 'https://facebook.com/eladmij' },
       { type: 'Instagram', value: '@itsszdale', icon: 'fab fa-instagram', link: 'https://www.instagram.com/itsszdale/' }
     ];
