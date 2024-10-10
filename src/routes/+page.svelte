@@ -13,7 +13,6 @@
        </div>
    
        <header class="space-y-6 animate-fade-in-down">
-         <h1 class="text-5xl font-extrabold text-gray-800">Welcome to My Portfolio</h1>
          <p class="text-lg text-gray-600">
            Hello! I'm <span class="text-primary font-semibold">Viñas, Jim Dale V.</span>, a student developer passionate about creating innovative solutions. 
            Over the past three years, I've honed my skills in software development, web applications, and algorithm design. This portfolio is a reflection of my 
